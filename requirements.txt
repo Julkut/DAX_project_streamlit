@@ -1,6 +1,4 @@
-warnings
-sys
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
