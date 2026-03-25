@@ -2,5 +2,5 @@ warnings
 sys
 streamlit
 pandas
-matplotlib
+matplotlib.pyplot
 numpy
